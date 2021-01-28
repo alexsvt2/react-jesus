@@ -5,7 +5,7 @@ function About() {
         <>
         <h1>About Page</h1>
 
-        <p>Esta es mi pagina de Acerca</p>
+        <p>Esta es mi pagina de Acerca de mi</p>
         </>
     )
 }
