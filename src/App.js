@@ -14,7 +14,7 @@ const App = () => {
         <Router>
           <Header title="Posts" username="Alexis" />
           <Route exact path="/about">
-            <About />
+            <About />ddd
           </Route>
           <Route exact path="/">
             <Posts />
